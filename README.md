@@ -34,25 +34,12 @@ I'm an enthusiastic Junior Frontend Developer specializing in MERN stack, with s
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Chaitey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitey23&show_icons=true&theme=radical&hide_title=true)
 
-### ⚡ GitHub Analytics
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitey23&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Chaitey's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitey23&layout=compact&theme=radical&hide_border=true&hide=java,php" /> |
-| ------------- | ------------- |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitey23&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-### 📈 Activity Metrics
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaitey23&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/chaitey23?color=green&logo=github&style=flat-square" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/chaitey23?color=yellow&logo=github&style=flat-square" alt="GitHub Stars" />
-</p>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitey23&layout=compact&theme=radical&hide=java,php)
 
 ## 📈 Current Learning Path
+
 ```javascript
 const currentSkills = {
   languages: ['JavaScript', 'HTML5', 'CSS3'],
@@ -63,6 +50,7 @@ const currentSkills = {
   currentlyLearning: ['Redux', 'TypeScript', 'REST APIs']
 };
 ```
+
 🌐 Connect With Me
 <p align="center"> <a href="mailto:chaiteychaitey30@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://github.com/chaitey23"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p><p align="center"> <strong>📧 Email:</strong> chaiteychaitey30@gmail.com<br/> <strong>📍 Location:</strong> Dhaka, Bangladesh </p>
 
