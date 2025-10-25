@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Chaitey
 ### Junior Frontend Developer (MERN Stack) | React Enthusiast
 
-![Banner](https://raw.githubusercontent.com/chaitey23/chaitey/main/Gray%20White%20Minimalist%20Personal%20Profile%20Linkedin%20Banner%20(1).png)
+![Banner](githubBanner.png)
 
 ## 🚀 About Me
 I'm an enthusiastic Junior Frontend Developer specializing in MERN stack, with strong foundation in React.js and modern JavaScript. I'm passionate about creating responsive, user-friendly web applications and continuously learning new technologies to enhance my skills.
