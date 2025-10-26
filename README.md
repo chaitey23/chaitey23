@@ -56,4 +56,32 @@ const currentSkills = {
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
   </a> </p><p align="center"> <strong>📧 Email:</strong> chaiteychaitey30@gmail.com<br/> <strong>📍 Location:</strong> Dhaka, Bangladesh </p>
 
+  ## 📌 Pinned Projects
+Here are some of my key projects showcasing my skills and work:
+
+### 1. Garden Haven 🌱
+**Description:** A Gardening Community & Resource Hub web application.
+
+**Live Project:** [View Live](https://gardening-hub-application.web.app/)
+
+**Technologies Used:** React, Node.js, Express, MongoDB, TailwindCSS, Firebase
+
+**Core Features:**
+- User Authentication (Firebase)
+- CRUD operations for gardening tips
+- Browse tips by category and difficulty
+- Dark/Light mode toggle
+- Like system for tips
+
+**Dependencies:**
+- axios, react-router-dom, react-icons, react-toastify, framer-motion
+
+**Run Locally:**
+```bash
+git clone https://github.com/chaitey23/garden-haven.git
+cd garden-haven
+npm install
+npm start
+```
+
 ⭐ From Chaitey - Passionate about coding and continuous learning!
