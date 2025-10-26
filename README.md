@@ -63,6 +63,9 @@ Here are some of my key projects showcasing my skills and work:
 
 **Live Project:** [View Live](https://newspaper-fullstack-webs-53e81.web.app/)
 
+**Screenshot:**
+![Newspaper Screenshot](Newspaper.png)
+
 **Technologies Used:** React, Node.js, Express, MongoDB, TailwindCSS, Firebase
 
 **Core Features:**
@@ -88,6 +91,10 @@ npm run dev
 
 **Live Project:** [View Live](https://library-management-31a51.web.app/)
 
+**Screenshot:**
+![Library Screenshot](Library.png)
+
+
 **Technologies Used:** React, Node.js, Express, MongoDB, TailwindCSS, Firebase
 
 **Core Features:**
@@ -111,6 +118,9 @@ npm run dev
 
 ### 3. Garden Haven 🌱
 **Description:** A Gardening Community & Resource Hub web application.
+
+**Screenshot:**
+![GardenHaven Screenshot](GardenHaven.png)
 
 **Live Project:** [View Live](https://gardening-hub-application.web.app/)
 
