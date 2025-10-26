@@ -34,9 +34,12 @@ I'm an enthusiastic Junior Frontend Developer specializing in MERN stack, with s
 
 ## 📊 GitHub Stats
 
-![Chaitey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitey23&show_icons=true&theme=radical&hide_title=true)
+![Chaitey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitey23&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitey23&layout=compact&theme=radical&hide=java,php)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitey23&layout=compact&theme=radical&hide=java,php&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaitey23&theme=radical&hide_border=false)
+
 
 ## 📈 Current Learning Path
 
