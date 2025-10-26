@@ -52,6 +52,8 @@ const currentSkills = {
 ```
 
 🌐 Connect With Me
-<p align="center"> <a href="mailto:chaiteychaitey30@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://github.com/chaitey23"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p><p align="center"> <strong>📧 Email:</strong> chaiteychaitey30@gmail.com<br/> <strong>📍 Location:</strong> Dhaka, Bangladesh </p>
+<p align="center"> <a href="mailto:chaiteychaitey30@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://github.com/chaitey23"target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>   <a href="https://www.linkedin.com/in/jannatul-ferdouse-chaiteey/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+  </a> </p><p align="center"> <strong>📧 Email:</strong> chaiteychaitey30@gmail.com<br/> <strong>📍 Location:</strong> Dhaka, Bangladesh </p>
 
 ⭐ From Chaitey - Passionate about coding and continuous learning!
