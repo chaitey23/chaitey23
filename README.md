@@ -58,8 +58,58 @@ const currentSkills = {
 
   ## 📌 Pinned Projects
 Here are some of my key projects showcasing my skills and work:
+### 1. Newspaper FullStack Website 📰
+**Description:** Full-stack newspaper website with admin panel and subscription features, allowing users to read articles, view trending news, and manage subscriptions.
 
-### 1. Garden Haven 🌱
+**Live Project:** [View Live](https://newspaper-fullstack-webs-53e81.web.app/)
+
+**Technologies Used:** React, Node.js, Express, MongoDB, TailwindCSS, Firebase
+
+**Core Features:**
+- User authentication via Firebase (email & Google login)
+- CRUD operations for articles (admin)
+- Trending articles section
+- Subscription system with expiry check
+- Charts and counters using react-google-charts & react-countup
+- Responsive design for desktop, tablet, mobile
+
+**Dependencies:**
+- axios, react-router-dom, react-toastify, react-hook-form, firebase
+
+**Run Locally:**
+```bash
+git clone https://github.com/chaitey23/newspaper-fullstack.git
+cd newspaper-fullstack
+npm install
+npm run dev
+```
+### 2. Library Management System 📚
+**Description:** Full-stack library management system for borrowing and returning books, managing categories, and tracking users’ borrowed books.
+
+**Live Project:** [View Live](https://library-management-31a51.web.app/)
+
+**Technologies Used:** React, Node.js, Express, MongoDB, TailwindCSS, Firebase
+
+**Core Features:**
+- User authentication (Firebase email & Google login)
+- Borrow & return books
+- Book categorization
+- Private routes for admin functionalities
+- Responsive design for desktop, tablet, and mobile
+- Real-time updates for book quantity and borrowed books
+
+**Dependencies:**
+- axios, react-router-dom, react-hook-form, react-toastify, firebase
+
+**Run Locally:**
+```bash
+git clone https://github.com/chaitey23/library-management.git
+cd library-management
+npm install
+npm run dev
+```
+
+### 3. Garden Haven 🌱
 **Description:** A Gardening Community & Resource Hub web application.
 
 **Live Project:** [View Live](https://gardening-hub-application.web.app/)
