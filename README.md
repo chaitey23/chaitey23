@@ -34,11 +34,20 @@ I'm an enthusiastic Junior Frontend Developer specializing in MERN stack, with s
 
 ## 📊 GitHub Stats
 
-![Chaitey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitey23&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitey23&layout=compact&theme=radical&hide=java,php&langs_count=8)
+### 🚀 Contribution Highlights
+- **🔥 Current Streak:** 3 days 
+- **⭐ Longest Streak:** 5 days
+- **📊 Total Contributions:** 148+
+- **💻 Public Commits:** 112+
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaitey23&theme=radical&hide_border=false)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitey23&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&hide=prs,issues,contribs) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaitey23&theme=radical&hide_border=false) |
+| :---: | :---: |
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitey23&layout=compact&theme=radical&hide=java,php&langs_count=6)
+
+</div>
 
 
 ## 📈 Current Learning Path
